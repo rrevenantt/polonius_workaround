@@ -1,0 +1,16 @@
+[package]
+name = "polonius_workaround"
+version = "0.1.0"
+authors = ["Konstantin Anisimov <rrevenantt@gmail.com>"]
+homepage = "https://github.com/rrevenantt/polonius_workaround"
+repository = "https://github.com/rrevenantt/polonius_workaround"
+license = "MIT OR Apache-2.0"
+description = "Safe replacement for Polonius on stable Rust"
+readme = "../README.md"
+categories = ["rust-patterns"]
+keywords = ["polonius", "workaround", "borrow checker"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
