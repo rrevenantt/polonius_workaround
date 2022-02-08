@@ -6,9 +6,9 @@ homepage = "https://github.com/rrevenantt/polonius_workaround"
 repository = "https://github.com/rrevenantt/polonius_workaround"
 license = "MIT"
 description = "Safe replacement for Polonius on stable Rust"
-readme = "../README.md"
+readme = "README.md"
 categories = ["rust-patterns"]
-keywords = ["polonius", "workaround", "borrow checker"]
+keywords = ["polonius", "workaround"]
 edition = "2015"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
